@@ -1,0 +1,45 @@
+h1 {
+    font-family: fantasy;
+    font-style: oblique;
+    text-align: center;
+    color: #27C500;
+}
+
+h3 {
+    font-family: fantasy;
+    font-style: italic;
+    text-align: center;
+    color: #209A02;
+}
+
+body {
+    background-color: #FCA6EF;
+}
+
+#seal {
+    margin-left: 40%;
+    height: 300px;
+    width: 300px;
+}
+
+#info {
+    background-color: gray;
+    text-align: center;
+    height: 180px;
+    width: 400px;
+    margin-left: 490px;
+    margin-top: 20px;
+    color: white;
+    font-size: medium;
+}
+
+#work {
+    background-color: gray;
+    text-align: center;
+    height: 70px;
+    width: 300px;
+    color: white;
+    margin-left: 540px;
+    margin-top: 20px;
+    
+}
