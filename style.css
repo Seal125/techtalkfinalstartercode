@@ -1,8 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab');
+
+
 h1 {
-    font-family: fantasy;
     font-style: oblique;
     text-align: center;
-    color: #27C500;
+    color: white;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: red;
+    background-color: #F98D68;
+    width: 500px;
+    margin-left: 430px;
 }
 
 h3 {
@@ -13,7 +21,8 @@ h3 {
 }
 
 body {
-    background-color: #FCA6EF;
+    background-image: url("http://img09.deviantart.net/8cdf/i/2008/304/3/d/triforce_2_by_5995260108.png");
+    background-position: center;
 }
 
 #seal {
@@ -23,7 +32,7 @@ body {
 }
 
 #info {
-    background-color: gray;
+    background-color: #F6856D;
     text-align: center;
     height: 180px;
     width: 400px;
@@ -31,15 +40,28 @@ body {
     margin-top: 20px;
     color: white;
     font-size: medium;
+    border: solid;
+    border-color: red;
 }
 
 #work {
-    background-color: gray;
+    background-color: #F6856D;
     text-align: center;
     height: 70px;
     width: 300px;
     color: white;
     margin-left: 540px;
     margin-top: 20px;
-    
+    border: solid;
+    border-color: red;
+}
+
+.col-md-7 {
+    background-color: #F6856D;
+    border: solid;
+    border-color: red;
+    margin-left: 290px;
+    color: white;
+    text-align: center;
+    font-size: medium;
 }
